@@ -1,2 +1,2 @@
 # ProjectExample
-Este es un proyecto de puebade conocmento apra le control de versiones.
+Este es un proyecto de pueba de conocimento para le control de versiones.
